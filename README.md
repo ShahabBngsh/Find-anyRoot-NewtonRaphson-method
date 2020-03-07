@@ -5,3 +5,4 @@ For comparison finding sqrt(25) with bisection method will take around 23 iterat
 while with NewtonRaphson method it'll only take 6 iterations.
 
 For more detail about NewtonRaphson method
+https://en.wikipedia.org/wiki/Newton's_method
